@@ -1,23 +1,8 @@
-# Peoples United Bank - Respo
+# Family Tree (Clan)
 
-There are three solutions to the three challenges provided:
-## 1. String Replace
-   A function to replace a char in a string with a given string.
-   
-### Solution name: 
-   ReplaceCharInString.sln
+This is an attempt to create a family tree.  In some tribes this is 
+a clan lineage.  
 
+This an ongoing project. 
 
-## 2. Find the smallest difference
-   Given two arrays, array1 and array2, we use the a function 
-   to find the smallest array1[n] - array2[n]
-
-### Solution name:
-   FindSmallestDifference.sln
-
-## 3. Clone Complex Lists
-   Given the a class with a complexListNode with nodes next and siblings
-   create a function to clone the list.
-
-### Solution name:
-   CloneList.sln 
+This family tree is implemented using a treeview.
