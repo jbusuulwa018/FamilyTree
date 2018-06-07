@@ -1,0 +1,34 @@
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\bin\Debug\WpfFamilyTrv.exe.config
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\bin\Debug\WpfFamilyTrv.exe
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\bin\Debug\WpfFamilyTrv.pdb
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\MainWindow.g.cs
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\ModelView\UserFamilyCtrl.g.cs
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\App.g.cs
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv_MarkupCompile.cache
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv_MarkupCompile.lref
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\MainWindow.baml
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\ModelView\UserFamilyCtrl.baml
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.g.resources
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.Properties.Resources.resources
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.csproj.GenerateResource.Cache
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.exe
+c:\users\jbusuulwa\documents\visual studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.pdb
+C:\Users\jbusuulwa\Documents\Visual Studio 2015\Projects\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.csprojResolveAssemblyReference.cache
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\bin\Debug\WpfFamilyTrv.exe.config
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\bin\Debug\WpfFamilyTrv.exe
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\bin\Debug\WpfFamilyTrv.pdb
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.csprojResolveAssemblyReference.cache
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\MainWindow.g.cs
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\ModelView\UserFamilyCtrl.g.cs
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\App.g.cs
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv_MarkupCompile.cache
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv_MarkupCompile.lref
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\MainWindow.baml
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\ModelView\UserFamilyCtrl.baml
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.g.resources
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.Properties.Resources.resources
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.csproj.GenerateResource.Cache
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.exe
+E:\Documents\Development\VS\Archive\05-01-2017\WpfFamilyTrv\WpfFamilyTrv\obj\Debug\WpfFamilyTrv.pdb
