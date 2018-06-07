@@ -5,4 +5,9 @@ a clan lineage.
 
 This an ongoing project. 
 
-This family tree is implemented using a treeview.
+## EntityFrmMSAccess
+This version (EntityFrmMSAccess) is an attempt to improve on the first
+version. 
+
+This family tree is implemented using a treeview. MS Access is the database.
+
